@@ -30,3 +30,4 @@ public class ReverseInteger {
         System.out.println(reverse(n));
     }
 }
+nxz,n
